@@ -1,0 +1,4 @@
+﻿  examm.cpp
+examm.obj : error LNK2019: ссылка на неразрешенный внешний символ inet_addr в функции main.
+examm.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_SendARP в функции main.
+C:\Users\Acer\Desktop\3 сем\ксис\examm\x64\Debug\examm.exe : fatal error LNK1120: неразрешенных внешних элементов: 2

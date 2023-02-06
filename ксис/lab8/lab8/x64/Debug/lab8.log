@@ -1,0 +1,5 @@
+﻿  lab8.cpp
+C:\Users\Acer\Desktop\KSIS-3-sem-main\lab8\lab8\lab8.cpp(128,19): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\Acer\Desktop\KSIS-3-sem-main\lab8\lab8\lab8.cpp(88,11): warning C4101: mod: неиспользованная локальная переменная
+C:\Users\Acer\Desktop\KSIS-3-sem-main\lab8\lab8\lab8.cpp(88,6): warning C4101: bin: неиспользованная локальная переменная
+  lab8.vcxproj -> C:\Users\Acer\Desktop\KSIS-3-sem-main\lab8\x64\Debug\lab8.exe
