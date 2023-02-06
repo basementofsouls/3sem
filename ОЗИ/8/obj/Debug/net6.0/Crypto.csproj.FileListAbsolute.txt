@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\3 сем\ОЗИ\Crypto\obj\Debug\net6.0\Crypto.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\3 сем\ОЗИ\Crypto\obj\Debug\net6.0\Crypto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\3 сем\ОЗИ\Crypto\obj\Debug\net6.0\Crypto.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\3 сем\ОЗИ\Crypto\obj\Debug\net6.0\Crypto.AssemblyInfo.cs
+C:\Users\Acer\Desktop\3 сем\ОЗИ\Crypto\obj\Debug\net6.0\Crypto.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\3 сем\ОЗИ\Crypto\bin\Debug\net6.0\Crypto.exe
+C:\Users\Acer\Desktop\3 сем\ОЗИ\Crypto\bin\Debug\net6.0\Crypto.deps.json
+C:\Users\Acer\Desktop\3 сем\ОЗИ\Crypto\bin\Debug\net6.0\Crypto.runtimeconfig.json
+C:\Users\Acer\Desktop\3 сем\ОЗИ\Crypto\bin\Debug\net6.0\Crypto.dll
+C:\Users\Acer\Desktop\3 сем\ОЗИ\Crypto\bin\Debug\net6.0\Crypto.pdb
+C:\Users\Acer\Desktop\3 сем\ОЗИ\Crypto\obj\Debug\net6.0\Crypto.dll
+C:\Users\Acer\Desktop\3 сем\ОЗИ\Crypto\obj\Debug\net6.0\refint\Crypto.dll
+C:\Users\Acer\Desktop\3 сем\ОЗИ\Crypto\obj\Debug\net6.0\Crypto.pdb
+C:\Users\Acer\Desktop\3 сем\ОЗИ\Crypto\obj\Debug\net6.0\Crypto.genruntimeconfig.cache
+C:\Users\Acer\Desktop\3 сем\ОЗИ\Crypto\obj\Debug\net6.0\ref\Crypto.dll
